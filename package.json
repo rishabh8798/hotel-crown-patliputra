@@ -1,0 +1,12 @@
+{
+  "name": "hotel-crown-patliputra",
+  "private": true,
+  "dependencies": {
+    "next": "16.3.3"
+  },
+  "scripts": {
+    "build": "npm run build --prefix web",
+    "dev": "npm run dev --prefix web",
+    "start": "npm run start --prefix web"
+  }
+}
